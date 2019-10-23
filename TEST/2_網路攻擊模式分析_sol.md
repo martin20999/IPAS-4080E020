@@ -36,14 +36,18 @@ D. Trojan horse 木馬攻擊
 ```
 # 3
 ```
+            安全
 You are a security administrator for a medium-sized bank. You have discovered a piece of
+                         數據庫                       應該                     出現
 software on your bank’s database server that is not supposed to be there. It appears that
+                         刪除中                        具體     僱員         已終止
 the software will begin deleting database files if a specific employee is terminated. What
+       描述
 best describes this?
-A. Worm
-B. Logic bomb
-C. Trojan horse
-D. Rootkit
+A. Worm 蠕蟲攻擊
+B. Logic bomb 邏輯炸彈
+C. Trojan horse 特洛伊木馬
+D. Rootkit 隐藏自己的踪迹和保留root访问权限
 ```
 ```
 答:
@@ -65,12 +69,14 @@ D. ARP poisoning
 ```
                           管理員                 小型會計公司         
 Juanita is a network 'administrator' for a 'small accounting firm'. The users on her network
+       抱怨                                      檢查                            觀察
 are complaining of slow connectivity. When she examines the firewall logs, she observes a
+                  半開放                           描述
 large number of half-open connections. What best describes this attack?
-A. DDoS
-B. SYN flood
-C. Buffer overflow
-D. ARP poisoning
+A. DDoS 分散式阻斷服務
+B. SYN flood syn海嘯
+C. Buffer overflow 緩衝區溢出
+D. ARP poisoning ARP欺騙
 ```
 ```
 答: B
